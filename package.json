@@ -1,8 +1,8 @@
 {
-  "name": "my-react-app",
+  "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lb5255.github.io/my-react-app",
+  "homepage": "https://lb5255.github.io/personal-website",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
