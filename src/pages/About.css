@@ -1,0 +1,121 @@
+body {
+    font-family: 'Aleo', serif;
+}
+
+.heading {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-weight: 300;
+    font-size: 50px;
+}
+
+.intro { font-size: 28px; }
+
+mark { background-color: #FECDE8; }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#wrapper {
+    margin: 4em auto;
+    width: 80vw;
+}
+
+#a.active {
+    color: black;
+}
+
+a:hover {text-decoration: underline; }
+
+#external {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+#resume {
+    font-size: 20px;
+    margin-right: 3em;
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    transition: border-color 0.3s ease-out,
+        color 0.3s ease-out;
+}
+#resume:hover, 
+#resume:active {
+    color: #f7567c;
+    border-color: #f7567c;
+    transition: border-color 0.4s ease-in,
+        color 0.4s ease-in;
+}
+
+#email {
+    font-size: 20px;
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    transition: border-color 0.3s ease-out,
+        color 0.3s ease-out;
+}
+#email:hover, 
+#email:active {
+    color: #f7567c;
+    border-color: #f7567c;
+    transition: border-color 0.4s ease-in,
+        color 0.4s ease-in;
+}
+
+#aboutWrapper {
+    display:grid;
+    grid-template-columns:50vw 30vw;
+}
+
+#bio {
+    padding-right:3em;
+}
+
+#portrait {
+    width:100%;
+    margin-bottom:.7em;
+    border-radius:.3em;
+}
+
+@media only screen and (max-width: 950px) {
+    #aboutWrapper {
+        display:grid;
+        grid-template-rows: auto auto;
+        grid-template-columns: 80vw;
+    }
+    
+    #bio {
+        padding-right:0;
+    }
+    
+    #portrait {
+        width: 393px;
+    }
+}
+@media screen and (max-width: 700px) {
+    nav { font-size: 18px;}
+    #links a:first-child { margin-right: 1em;}
+    .intro { font-size: 20px;}
+    #portrait {
+        width: 281px;
+    }
+}

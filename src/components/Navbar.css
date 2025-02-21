@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    justify-content: space-between; /* Distribute space between left and right sections */
+    padding: 10px;
+    font-size: 27px;
+    padding-top: 80px;
+    padding-left: 150px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%; /* Ensures the links occupy the full width of the nav */
+  }
+  
+  li {
+    margin-right: 20px; /* Adds space between the links */
+  }
+  
+  /* Moves Home to the left */
+  ul:first-child {
+    margin-right: 550px; /* Adjust this value to control the space between Home and About/Project */
+  }
+  
+  /* Moves About and Project to the right */
+  ul:last-child {
+    margin-left: auto;
+  }
+  
+  /* Adds distance between About and Project */
+  ul:last-child li {
+    margin-right: 120px; /* Adjust this value as needed */
+  }
+  
