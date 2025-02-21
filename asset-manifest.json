@@ -1,16 +1,39 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.469080bb.css",
-    "main.js": "/personal-website/static/js/main.9134e265.js",
+    "main.css": "/personal-website/static/css/main.b233e45b.css",
+    "main.js": "/personal-website/static/js/main.aa5631ca.js",
     "static/js/453.253ccfac.chunk.js": "/personal-website/static/js/453.253ccfac.chunk.js",
+    "static/media/me.jpeg": "/personal-website/static/media/me.40fab0bc396dfffab380.jpeg",
+    "static/media/clock.jpg": "/personal-website/static/media/clock.7d60fe0458d47eb565ea.jpg",
+    "static/media/care.png": "/personal-website/static/media/care.060b1152bd80fe54c83d.png",
+    "static/media/ritpage.jpg": "/personal-website/static/media/ritpage.73e50977a24a3c57486d.jpg",
+    "static/media/mole.png": "/personal-website/static/media/mole.8ef70505fc6aca52a17c.png",
+    "static/media/brief_history.jpg": "/personal-website/static/media/brief_history.5937ca90551d4080b475.jpg",
+    "static/media/adminweb.jpg": "/personal-website/static/media/adminweb.5c1a02fc9640e9494c73.jpg",
+    "static/media/restful.jpg": "/personal-website/static/media/restful.1b8616bf5b52fb046058.jpg",
+    "static/media/abstract.jpg": "/personal-website/static/media/abstract.5b0b75271a5ad0a98e3f.jpg",
+    "static/media/dazw.jpg": "/personal-website/static/media/dazw.7c4d00ff3d142d04d7ad.jpg",
+    "static/media/welcometoarmenia.jpg": "/personal-website/static/media/welcometoarmenia.c404456cdc167ec6ac8b.jpg",
+    "static/media/sheep.jpg": "/personal-website/static/media/sheep.25674b2566e266e733a9.jpg",
+    "static/media/vaccine.jpg": "/personal-website/static/media/vaccine.9710ef505a8c405ba691.jpg",
+    "static/media/wellness.jpg": "/personal-website/static/media/wellness.362254a478aac85bd16d.jpg",
+    "static/media/connect.png": "/personal-website/static/media/connect.af7846913f1cab02bd23.png",
+    "static/media/spelltron.png": "/personal-website/static/media/spelltron.7fc36ff24eb8ef87a1e9.png",
+    "static/media/movie.jpg": "/personal-website/static/media/movie.f864f287a26a2da17440.jpg",
+    "static/media/reproductive_health.jpg": "/personal-website/static/media/reproductive_health.5c32928bb45833998aad.jpg",
+    "static/media/functions.png": "/personal-website/static/media/functions.d905a5dfcc1dc74949ba.png",
+    "static/media/resume.pdf": "/personal-website/static/media/resume.6b126974a56c0be1d5d3.pdf",
+    "static/media/clarinet.jpg": "/personal-website/static/media/clarinet.b6631d22789e679f4aca.jpg",
+    "static/media/heart.jpg": "/personal-website/static/media/heart.5a185a02d72ba1153f4c.jpg",
+    "static/media/snake.png": "/personal-website/static/media/snake.c67664a710ff60fa7f60.png",
     "static/media/background.svg": "/personal-website/static/media/background.e1520e4d09703aa59ec3.svg",
     "index.html": "/personal-website/index.html",
-    "main.469080bb.css.map": "/personal-website/static/css/main.469080bb.css.map",
-    "main.9134e265.js.map": "/personal-website/static/js/main.9134e265.js.map",
+    "main.b233e45b.css.map": "/personal-website/static/css/main.b233e45b.css.map",
+    "main.aa5631ca.js.map": "/personal-website/static/js/main.aa5631ca.js.map",
     "453.253ccfac.chunk.js.map": "/personal-website/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469080bb.css",
-    "static/js/main.9134e265.js"
+    "static/css/main.b233e45b.css",
+    "static/js/main.aa5631ca.js"
   ]
 }
