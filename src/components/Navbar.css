@@ -33,4 +33,48 @@ nav {
   ul:last-child li {
     margin-right: 120px; /* Adjust this value as needed */
   }
-  
+
+  @media screen and (max-width: 950px) {
+    nav {
+        font-size: 22px; /* Slightly reduce font size */
+        padding-left: 80px; /* Adjust padding */
+        padding-top: 70px;
+    }
+
+    li {
+        margin-right: 15px; /* Reduce space between items a bit */
+    }
+
+    ul:first-child {
+        margin-right: 100px; /* Reduce gap between Home and About/Project */
+    }
+
+    ul:last-child li {
+        margin-right: 50px; /* Reduce space between About and Project */
+    }
+}
+
+/* Small screens: More compact styling */
+@media screen and (max-width: 700px) {
+    nav {
+        font-size: 15px; /* Further reduce font size */
+        padding-left: 20px;
+        padding-top: 50px;
+    }
+
+    ul {
+        width: auto;
+    }
+
+    li {
+        margin-right: 10px; /* Reduce space between links more */
+    }
+
+    ul:first-child {
+        margin-right: 20px; /* Further reduce gap */
+    }
+
+    ul:last-child li {
+        margin-right: 15px; /* Further reduce space between About and Project */
+    }
+}
