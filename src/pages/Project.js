@@ -213,7 +213,6 @@ const projects = [
     imgSrc: care,
     imgAlt: "care"
   },
-  // Add other projects here...
 ];
 
 function Project() {

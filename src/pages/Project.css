@@ -1,7 +1,9 @@
 body {
     background-color: #e5e3ea;
-    font-family: 'Aleo', serif;
-}
+    font-family: "Lora", "Source Sans Pro", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 
 .heading {
     display: flex;
