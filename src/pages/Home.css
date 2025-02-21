@@ -1,6 +1,6 @@
 .container {
     background-image: url("../assets/media/background.svg");
-    font-family: "Lora", "Source Sans Pro", Arial, sans-serif;
+    font-family: "Nunito", "DM Sans", "Mulish", sans-serif;
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -24,13 +24,13 @@
 }
 
 .title {
-    font-size: 35px;
+    font-size: 30px;
     color: white;
     text-align: center;
 }
 
 .name {
-    font-size: 35px;
+    font-size: 30px;
     color: #f7567c;
 }
 
